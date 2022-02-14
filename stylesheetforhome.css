@@ -1,0 +1,21 @@
+body div{
+    text-align: right;
+    
+}
+h2{
+    text-align: center;
+}
+h6{
+    text-align: center;
+}
+section h6 {
+    text-align: left;
+    
+}
+nav ul h5 {
+    text-align: center;
+}
+article{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}

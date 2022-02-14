@@ -1,0 +1,55 @@
+body h1 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-variant: small-caps;
+    font-weight: bolder;
+}
+
+div input {
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.986);
+    
+}
+
+body div {
+    text-align: center;
+    
+}
+
+section input {
+    background-color: rgb(0, 0, 0);
+    font-size: x-large;
+}
+.button:hover{
+    background-color: green;
+}
+.button:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+h1 input {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: Arial;
+    border-color: rgb(0, 0, 0);
+    font-variant-ligatures: historical-ligatures;
+    font-weight: bolder;
+}
+body span h1{
+    color: #3e8e41;
+    font-family: Arial, Helvetica, sans-serif;
+    font-variant: normal;
+
+}
+nav ul h5{
+    font-size: larger;
+    text-align: center;
+    
+}
+
+p {
+    text-align: right;
+    
+}
